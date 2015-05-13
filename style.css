@@ -12,6 +12,8 @@ body{
 {
 	background: #ccc;
 	padding: 20px;
+	border: 8px dashed;
+
 }
 
 #header h1 { 
